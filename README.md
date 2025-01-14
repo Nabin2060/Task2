@@ -29,7 +29,9 @@ Total Time: 4 hours
 
 Kanban Board Application
 A feature-rich Kanban Board built with React, TypeScript, and Tailwind CSS, designed for task management with seamless interactivity.
-Features
+
+
+Features::
 Add New Tasks:
 Users can create tasks and assign them to specific categories (e.g., To-Do, In Progress, Done).
 Supports task titles, descriptions, and optional tags.
@@ -43,6 +45,7 @@ Reorder Tasks:
 Within a column, tasks can be reordered by dragging.
 Responsive Design:
 Fully responsive UI for mobile, tablet, and desktop screens.
+
 
 Setup Instructions
 1. Clone the Repository:
@@ -59,6 +62,8 @@ npm install
 bash
 Copy code
 npm run dev
+
+
 Technology Choices and Rationale ::
 React:
 Enables component-based architecture and reusability.
@@ -73,6 +78,7 @@ React DnD (Optional):
 Simplifies drag-and-drop implementation.
 LocalStorage (Optional):
 Stores task data persistently for small-scale applications.
+
 
 Future Improvements::
 Backend Integration:
