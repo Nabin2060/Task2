@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import { Column ,Id, Task} from '../types';
 import TrashIcon from '../icons/TrashIcon';
 import {CSS} from "@dnd-kit/utilities";
