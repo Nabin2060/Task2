@@ -5,6 +5,8 @@ Clone the Repository
 https://github.com/Nabin2060/VritTask.git
 and install liveserver
 and open live
+Here Live Link:
+https://task2-skk1.vercel.app/
 
 Technology Choices and Rationale:
 HTML,CSS,JS
