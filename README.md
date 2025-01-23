@@ -50,6 +50,8 @@ Fully responsive UI for mobile, tablet, and desktop screens.
 Setup Instructions
 1. Clone the Repository:
 bash
+Here Live Link:
+https://task2-nzjo.vercel.app/
 Copy code
 https://github.com/Nabin2060/VritTask.git
 cd kanban-board
